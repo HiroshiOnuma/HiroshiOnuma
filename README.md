@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HiroshiOnuma&show_icons=true&theme=radical)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HiroshiOnuma)](https://github.com/anuraghazra/github-readme-stats)
-https://github-profile-trophy.vercel.app/?username=HiroshiOnuma&theme=darkhub
+[![trophy](https://github-profile-trophy.vercel.app/?username=HIroshionuma&theme=darkhub)](https://github.com/ryo-ma/github-profile-trophy)
